@@ -55,7 +55,7 @@ const RegistrationForm = () => {
       <div className="bg-gray-100 text-gray-500 rounded-3xl shadow-xl w-full overflow-hidden" style={{ maxWidth: "1100px" }}>
         <div className="md:flex w-full">
           {/* Left side (SVG or Image, if you want to keep it) */}
-          <div className="relative text-center w-1/2 bg-orange-500 py-10 px-10 flex flex-col justify-center items-center">
+          <div className="relative  text-center md:w-1/2 bg-orange-500 py-10 px-10 flex flex-col justify-center items-center">
             <Image src={feather} width={240} height={120} alt="feather" />
             <h2 className="font-extrabold text-3xl uppercase text-black mt-[20px]">le cafe du file</h2>
             <p className="text-gray-900 roboto mt-2 capitalize font-normal">testes de positionnement et actualite fle</p>

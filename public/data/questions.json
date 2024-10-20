@@ -1,0 +1,189 @@
+{
+    "subjects": [
+      {
+        "name": "Compréhension Orale",
+        "image": "/images/ORALE.jpg",
+        "questions": [
+          {
+            "question": "Quel est le sujet principal de cet enregistrement audio ?",
+            "options": [
+              "Les vacances",
+              "Le travail",
+              "Les études",
+              "Les loisirs"
+            ],
+            "answer": "Le travail"
+          },
+          {
+            "question": "Quel est le niveau sonore de l'enregistrement ?",
+            "options": [
+              "Très fort",
+              "Modéré",
+              "Faible",
+              "Inaudible"
+            ],
+            "answer": "Modéré"
+          },
+          {
+            "question": "Quel est le ton utilisé par le locuteur ?",
+            "options": [
+              "Agressif",
+              "Amical",
+              "Formel",
+              "Triste"
+            ],
+            "answer": "Amical"
+          },
+          {
+            "question": "Que doit faire l'auditeur à la fin de cet enregistrement ?",
+            "options": [
+              "Prendre des notes",
+              "Répondre à des questions",
+              "Ignorer le contenu",
+              "Suivre des instructions"
+            ],
+            "answer": "Répondre à des questions"
+          }
+        ]
+      },
+      {
+        "name": "Vocabulaire",
+        "image": "/images/VOCABULAIRE.jpg",
+        "questions": [
+          {
+            "question": "Quel est le synonyme de 'rapide' ?",
+            "options": [
+              "Lent",
+              "Vif",
+              "Calme",
+              "Fort"
+            ],
+            "answer": "Vif"
+          },
+          {
+            "question": "Quel est le contraire de 'difficile' ?",
+            "options": [
+              "Facile",
+              "Impossible",
+              "Lourd",
+              "Doux"
+            ],
+            "answer": "Facile"
+          },
+          {
+            "question": "Quel mot signifie 'très grand' ?",
+            "options": [
+              "Minuscule",
+              "Géant",
+              "Petit",
+              "Lourd"
+            ],
+            "answer": "Géant"
+          },
+          {
+            "question": "Quel est le synonyme de 'heureux' ?",
+            "options": [
+              "Triste",
+              "Content",
+              "Malheureux",
+              "En colère"
+            ],
+            "answer": "Content"
+          }
+        ]
+      },
+      {
+        "name": "Grammaire",
+        "image": "/images/GRAMMAIRE.jpg",
+        "questions": [
+          {
+            "question": "Quelle est la forme correcte du verbe au passé composé ?",
+            "options": [
+              "J'ai mange",
+              "J'ai mangé",
+              "Je mange",
+              "Je mangerai"
+            ],
+            "answer": "J'ai mangé"
+          },
+          {
+            "question": "Quel est l'accord du participe passé avec le sujet 'elles' ?",
+            "options": [
+              "Mangé",
+              "Mangée",
+              "Mangés",
+              "Mangées"
+            ],
+            "answer": "Mangées"
+          },
+          {
+            "question": "Comment conjuguer le verbe 'être' au présent de l'indicatif ?",
+            "options": [
+              "Je suis",
+              "Tu es",
+              "Ils sont",
+              "Toutes les réponses"
+            ],
+            "answer": "Toutes les réponses"
+          },
+          {
+            "question": "Quel est l'article défini utilisé devant un nom masculin singulier ?",
+            "options": [
+              "La",
+              "Le",
+              "Les",
+              "L'"
+            ],
+            "answer": "Le"
+          }
+        ]
+      },
+      {
+        "name": "Expression Écrite",
+        "image": "/images/EXPRESSION ÉCRITE.jpg",
+        "questions": [
+          {
+            "question": "Quel est le but principal d'une introduction dans une rédaction ?",
+            "options": [
+              "Présenter le sujet",
+              "Conclure le texte",
+              "Développer des arguments",
+              "Citer des sources"
+            ],
+            "answer": "Présenter le sujet"
+          },
+          {
+            "question": "Que doit-on inclure dans la conclusion d'une rédaction ?",
+            "options": [
+              "Des nouveaux arguments",
+              "Une ouverture",
+              "Le développement des idées",
+              "Rien"
+            ],
+            "answer": "Une ouverture"
+          },
+          {
+            "question": "Quel est un bon conseil pour écrire une lettre formelle ?",
+            "options": [
+              "Utiliser un ton amical",
+              "Utiliser des abréviations",
+              "Utiliser un langage poli",
+              "Ignorer les formules de politesse"
+            ],
+            "answer": "Utiliser un langage poli"
+          },
+          {
+            "question": "Quel pronom personnel est utilisé pour s'adresser à une personne de manière formelle en français ?",
+            "options": [
+              "Tu",
+              "Nous",
+              "Ils",
+              "Vous"
+            ],
+            "answer": "Vous"
+          }
+        ]
+      }
+    ]
+  }
+  

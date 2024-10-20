@@ -20,14 +20,14 @@ const Results = () => {
           Vous avez montré de solides compétences en français. Continuez à pratiquer et vous ferez encore mieux la prochaine fois !
         </p>
         <p className="mt-6 text-md text-gray-500">
-          Merci d'avoir pris ce test avec nous. Nous espérons que vous avez trouvé cela intéressant et enrichissant. À bientôt pour de nouveaux défis !
+          Merci d&apos;avoir pris ce test avec nous. Nous espérons que vous avez trouvé cela intéressant et enrichissant. À bientôt pour de nouveaux défis !
         </p>
         <div className="mt-8">
           <button
             onClick={handleRedirect}
             className="px-6 py-2 bg-orange-600 text-white rounded-md hover:bg-orange-700 transition duration-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
           >
-            Retour à l'accueil
+            Retour à l&apos;accueil
           </button>
         </div>
       </div>
